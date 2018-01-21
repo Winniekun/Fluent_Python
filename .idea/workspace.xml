@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33918194-a4ed-4dba-965a-4b32b1bb1711" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Arithmetic/bubble_sort.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basis/0x01.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basis/0x02.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Fluent_Python/__init__.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arithmetic/bubble_sort.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/arithmetic/__init__.py" afterPath="$PROJECT_DIR$/Arithmetic/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter01/FrenchDeck.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter01/FrenchDeck.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter01/flu_1.1.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter01/flu_1.1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter01/flu_1.2.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter01/flu_1.2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter01/rest.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter01/rest.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter02/__init__.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter02/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter02/flu_2.1.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter02/flu_2.2.1.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.2.1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter02/flu_2.2.3.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.2.3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter02/flu_2.2.4.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.2.4.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter02/flu_2.3.1.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.3.1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter02/flu_2.3.2.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.3.2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter02/flu_2.3.3.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.3.3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter02/flu_2.4.1.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.4.1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter02/flu_2.4.2.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.4.2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter02/flu_2.4.3.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.4.3.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter02/flu_2.4.4.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.4.4.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter02/flu_2.5.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.5.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/chapter02/flu_2.6.py" afterPath="$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.6.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/effective_python/chapter_04.py" afterPath="$PROJECT_DIR$/Effective_Python/chapter_04.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/effective_python/chapter_05.py" afterPath="$PROJECT_DIR$/Effective_Python/chapter_05.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/effective_python/chapter_06.py" afterPath="$PROJECT_DIR$/Effective_Python/chapter_06.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/effective_python/chapter_07.py" afterPath="$PROJECT_DIR$/Effective_Python/chapter_07.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/effective_python/chapter_16.py" afterPath="$PROJECT_DIR$/Effective_Python/chapter_16.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basis/0x01.py" afterPath="$PROJECT_DIR$/Basis/0x01.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Basis/0x02.py" afterPath="$PROJECT_DIR$/Basis/0x02.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,79 +13,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Fluent_Python$0x01.coverage" NAME="0x01 Coverage Results" MODIFIED="1516527920790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basis" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$FrenchDeck.coverage" NAME="FrenchDeck Coverage Results" MODIFIED="1508293652164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter01" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1516520780424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/arithmetic" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$statistics.coverage" NAME="statistics Coverage Results" MODIFIED="1508295454177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_freq_statistics" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$nltk_frquent.coverage" NAME="nltk_frquent Coverage Results" MODIFIED="1508407127401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_freq_statistics" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$basicwords.coverage" NAME="basicwords Coverage Results" MODIFIED="1508506030328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_freq_statistics" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$smaple.coverage" NAME="smaple Coverage Results" MODIFIED="1508414516462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_freq_statistics/resourses" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$deal.coverage" NAME="deal Coverage Results" MODIFIED="1508337168598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_freq_statistics" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$chapter_06.coverage" NAME="chapter_06 Coverage Results" MODIFIED="1508652626661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/effective_python" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$know.coverage" NAME="know Coverage Results" MODIFIED="1508411532141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_freq_statistics" />
     <SUITE FILE_PATH="coverage/Fluent_Python$flu_2_6.coverage" NAME="flu_2.6 Coverage Results" MODIFIED="1514092556025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
     <SUITE FILE_PATH="coverage/Fluent_Python$a.coverage" NAME="a Coverage Results" MODIFIED="1508499091447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/words_statistics" />
     <SUITE FILE_PATH="coverage/Fluent_Python$basicwords__1_.coverage" NAME="basicwords (1) Coverage Results" MODIFIED="1508499715533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/words_statistics" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$0x01.coverage" NAME="0x01 Coverage Results" MODIFIED="1516526674435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basis" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$FrenchDeck.coverage" NAME="FrenchDeck Coverage Results" MODIFIED="1508293652164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter01" />
     <SUITE FILE_PATH="coverage/Fluent_Python$chapter_16.coverage" NAME="chapter_16 Coverage Results" MODIFIED="1508591104655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/effective_python" />
     <SUITE FILE_PATH="coverage/Fluent_Python$chapter_04.coverage" NAME="chapter_04 Coverage Results" MODIFIED="1508594002348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/effective_python" />
     <SUITE FILE_PATH="coverage/Fluent_Python$set.coverage" NAME="set Coverage Results" MODIFIED="1508396107524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_freq_statistics" />
     <SUITE FILE_PATH="coverage/Fluent_Python$chapter_07.coverage" NAME="chapter_07 Coverage Results" MODIFIED="1508662574152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/effective_python" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1516520780424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/arithmetic" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$statistics.coverage" NAME="statistics Coverage Results" MODIFIED="1508295454177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_freq_statistics" />
     <SUITE FILE_PATH="coverage/Fluent_Python$basic_words.coverage" NAME="basic_words Coverage Results" MODIFIED="1508507330362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_freq_statistics" />
     <SUITE FILE_PATH="coverage/Fluent_Python$test.coverage" NAME="test Coverage Results" MODIFIED="1508507759607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_freq_statistics" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$nltk_frquent.coverage" NAME="nltk_frquent Coverage Results" MODIFIED="1508407127401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_freq_statistics" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$0x02.coverage" NAME="0x02 Coverage Results" MODIFIED="1516536059595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basis" />
     <SUITE FILE_PATH="coverage/Fluent_Python$flu_2_4_4.coverage" NAME="flu_2.4.4 Coverage Results" MODIFIED="1513083136997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$basicwords.coverage" NAME="basicwords Coverage Results" MODIFIED="1508506030328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_freq_statistics" />
     <SUITE FILE_PATH="coverage/Fluent_Python$flu_2_4_1.coverage" NAME="flu_2.4.1 Coverage Results" MODIFIED="1512988321197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
     <SUITE FILE_PATH="coverage/Fluent_Python$chapter_05.coverage" NAME="chapter_05 Coverage Results" MODIFIED="1512987520989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/effective_python" />
     <SUITE FILE_PATH="coverage/Fluent_Python$flu_2_5.coverage" NAME="flu_2.5 Coverage Results" MODIFIED="1513429359769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter02" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$smaple.coverage" NAME="smaple Coverage Results" MODIFIED="1508414516462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_freq_statistics/resourses" />
     <SUITE FILE_PATH="coverage/Fluent_Python$rest.coverage" NAME="rest Coverage Results" MODIFIED="1508292876515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter01" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$deal.coverage" NAME="deal Coverage Results" MODIFIED="1508337168598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_freq_statistics" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$chapter_06.coverage" NAME="chapter_06 Coverage Results" MODIFIED="1508652626661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/effective_python" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$know.coverage" NAME="know Coverage Results" MODIFIED="1508411532141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_freq_statistics" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="flu_2.4.4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.4.4.py">
+      <file leaf-file-name="0x02.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Basis/0x02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flu_2.5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flu_2.6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="812">
-              <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bubble_sort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Arithmetic/bubble_sort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+            <state relative-caret-position="244">
+              <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -123,18 +55,8 @@
       <file leaf-file-name="0x01.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Basis/0x01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="105" column="49" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="105" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="0x02.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basis/0x02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="162">
+              <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -202,9 +124,9 @@
         <option value="$PROJECT_DIR$/chapter02/flu_2.5.py" />
         <option value="$PROJECT_DIR$/chapter02/flu_2.6.py" />
         <option value="$PROJECT_DIR$/arithmetic/bubble_sort.py" />
-        <option value="$PROJECT_DIR$/Basis/0x02.py" />
-        <option value="$PROJECT_DIR$/Basis/0x01.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Basis/0x01.py" />
+        <option value="$PROJECT_DIR$/Basis/0x02.py" />
       </list>
     </option>
   </component>
@@ -300,26 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.0x01">
-    <configuration default="false" name="flu_2.4.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Fluent_Python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter02/flu_2.4.4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.0x02">
     <configuration default="false" name="flu_2.5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -391,6 +294,25 @@
       <module name="Fluent_Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basis/0x01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="0x02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fluent_Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basis/0x02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -545,19 +467,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.flu_2.4.4" />
-      <item index="1" class="java.lang.String" itemvalue="Python.flu_2.5" />
-      <item index="2" class="java.lang.String" itemvalue="Python.flu_2.6" />
-      <item index="3" class="java.lang.String" itemvalue="Python.bubble_sort" />
-      <item index="4" class="java.lang.String" itemvalue="Python.0x01" />
+      <item index="0" class="java.lang.String" itemvalue="Python.flu_2.5" />
+      <item index="1" class="java.lang.String" itemvalue="Python.flu_2.6" />
+      <item index="2" class="java.lang.String" itemvalue="Python.bubble_sort" />
+      <item index="3" class="java.lang.String" itemvalue="Python.0x01" />
+      <item index="4" class="java.lang.String" itemvalue="Python.0x02" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.0x01" />
-        <item index="1" class="java.lang.String" itemvalue="Python.bubble_sort" />
-        <item index="2" class="java.lang.String" itemvalue="Python.flu_2.6" />
-        <item index="3" class="java.lang.String" itemvalue="Python.flu_2.5" />
-        <item index="4" class="java.lang.String" itemvalue="Python.flu_2.4.4" />
+        <item index="0" class="java.lang.String" itemvalue="Python.0x02" />
+        <item index="1" class="java.lang.String" itemvalue="Python.0x01" />
+        <item index="2" class="java.lang.String" itemvalue="Python.bubble_sort" />
+        <item index="3" class="java.lang.String" itemvalue="Python.flu_2.6" />
+        <item index="4" class="java.lang.String" itemvalue="Python.flu_2.5" />
       </list>
     </recent_temporary>
   </component>
@@ -711,10 +633,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.4.4.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="-700">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arithmetic/bubble_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -727,42 +665,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arithmetic/bubble_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basis/0x02.py">
+    <entry file="file://$PROJECT_DIR$/Fluent_Python/chapter02/flu_2.4.4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Basis/0x01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="105" column="49" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="105" selection-end-column="49" />
+        <state relative-caret-position="162">
+          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/Basis/0x02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        <state relative-caret-position="244">
+          <caret line="34" column="31" lean-forward="false" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
           <folding />
         </state>
       </provider>

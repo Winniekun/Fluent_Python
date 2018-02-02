@@ -16,9 +16,10 @@ Fluent Python 更新到2.7   ----2017/12/16
 
 例子
 
-在Python中 表达式 0.1+0.2 == 0.3 的返回是
+在Python中 表达式 0.1+0.2 == 0.3 的返回是         
+print(\~\~\~5) 的结果是多少
 
-~~~5的结果是多少
+下例的代码输出为多少
 
     i = 0
     while i < 5:
@@ -29,5 +30,5 @@ Fluent Python 更新到2.7   ----2017/12/16
     else:
         print(0)
 
-
+[解释](https://github.com/KongWiKi/Fluent_Python/blob/master/Basis/0x01.py)
 

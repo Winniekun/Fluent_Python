@@ -37,6 +37,7 @@ def print_intervals(intervals):
     print("".join(res))
 
 def merge_intervals(l):
+
     if l is None:
         return None
     l.sort(key=lambda i:i[0])

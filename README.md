@@ -4,7 +4,7 @@
 
 - Effective Python
 
-- [Fluent Pythoh](#Fluent Python)
+- Fluent Pythoh
 
 - LeetCode
 

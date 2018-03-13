@@ -133,6 +133,22 @@ def heapSort(heapList):
         sift_down(0, end - 1)
     return heapList
 
+def quickSort(quickList):
+    """
+    快速排序
+    :param quickList: 
+    :return: 
+    """
+    print("-------------------快速排序-------------------")
+    if len(quickList) < 2: #基准线
+        return quickList
+    else:
+        pivot = quickList[0]
+        less = [i for i in quickList[1:] if i < pivot]
+        greater = [j for j in quickList[1:] if j > pivot]
+        return quickSort(less) + [pivot] + quickSort(greater)
+
+
 
 if __name__ == '__main__':
     List = [9, 2, 1, 7, 6, 8, 5, 3, 4]
@@ -142,3 +158,4 @@ if __name__ == '__main__':
     print(shellSort(List))
     print(selectSort(List))
     print(heapSort(List))
+    print(quickSort(List))

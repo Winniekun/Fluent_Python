@@ -7,4 +7,5 @@
 | 027  | Remove Element                      | [Python](https://github.com/KongWiKi/Fluent_Python/blob/master/LeetCode/Array/Easy/027RemoveElement.py) | Easy       | Array |
 | 035  | Search Insert Position              | [python](https://github.com/KongWiKi/Fluent_Python/blob/master/LeetCode/Array/Easy/035SearchInsert.py) | Easy       | Array |
 | 053  | Maximum Subarray                    | [python](https://github.com/KongWiKi/Fluent_Python/blob/master/LeetCode/Array/Easy/053Maximum.py) | Easy       | Array |
+| 066  | PlusOne                             | [python](https://github.com/KongWiKi/Fluent_Python/blob/master/LeetCode/Array/Easy/066PlusOne.py) | Easy       | Array |
 

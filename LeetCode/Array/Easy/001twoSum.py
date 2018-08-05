@@ -5,7 +5,8 @@
 @contact: 836242657@qq.com
 '''
 class Solution:
-    def twoSum(self, nums, target):
+    @staticmethod
+    def twoSum(nums, target):
         """
         :type nums: List[int]
         :type target: int
@@ -17,11 +18,14 @@ class Solution:
                 return [dic[num],index]
             dic[target-num] = index
 
+
+
 if __name__ == '__main__':
     nums = [2,7,11,15]
     target = 9
-    assert (Solution().twoSum(nums,target))
-    nums = [3,2,4]
-    target = 6
-    assert (Solution().twoSum(nums,target) == [1,2])
+    print(Solution.twoSum(nums,target))
+    # assert (Solution().twoSum(nums,target))
+    # nums = [3,2,4]
+    # target = 6
+    # assert (Solution().twoSum(nums,target) == [1,2])
 

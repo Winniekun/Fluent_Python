@@ -34,6 +34,8 @@ def generate1(numRows):
         res.append(list(map(lambda x, y: x + y, res[-1] + [0], [0] + res[-1])))
     return res[:numRows]
 
+
+
 if __name__ == '__main__':
     a = generate1(5)
 

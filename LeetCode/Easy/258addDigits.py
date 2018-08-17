@@ -30,7 +30,7 @@ def addDigits1(num):
         for digit in num:
             res += int(digit)
         num = res
-        
+
 
 if __name__ == '__main__':
     print(addDigits(38))

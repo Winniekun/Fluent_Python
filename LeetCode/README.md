@@ -11,6 +11,7 @@
 | 053  | Maximum Subarray                    | [python](https://github.com/KongWiKi/Fluent_Python/blob/master/LeetCode/Array/Easy/053Maximum.py) | Easy       | Array |
 | 066  | PlusOne                             | [python](https://github.com/KongWiKi/Fluent_Python/blob/master/LeetCode/Array/Easy/066PlusOne.py) | Easy       | Array |
 | 088  | Merge SortedArray                   | [Python]                                                     | Easy       |       |
+| 100  | Same Tree                           | [Python](https://github.com/KongWiki/Fluent_Python/blob/master/LeetCode/Array/Easy/100sameTree.py) |            |       |
 | 118  | Pascal's Triangle                   | [python](https://github.com/KongWiKi/Fluent_Python/blob/master/LeetCode/Array/Easy/118pascalTriangle.py) | Easy       | Array |
 | 119  | Pascal's Triangle                   | [Python]                                                     | Easy       |       |
 | 121  | Best Time to Buy and Sell Stock     | [Python]                                                     | Easy       |       |
@@ -19,4 +20,7 @@
 | 169  | Majority Element                    | [Python]                                                     | Easy       |       |
 | 717  | 1 bit and 2 bit Characters          | [Python]                                                     | Easy       |       |
 |      |                                     |                                                              |            |       |
+|      |                                     |                                                              |            |       |
+
+
 

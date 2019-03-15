@@ -37,7 +37,7 @@
 ​       以下每行代码都是对 printName 的等价调用
 
 ​	printName('Olga', 'Puchmajerova', False)
-	printName('Olga', 'Puchmajerova', reverse = False)	
+​	printName('Olga', 'Puchmajerova', reverse = False)	
 
 * **关键字参数**：形参根据名称绑定到实参。
 
@@ -54,4 +54,6 @@
   printName('Olga', lastName = 'Puchmajerova', False)
   ```
 
-  
+
+* 待更
+
